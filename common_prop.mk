@@ -1,5 +1,5 @@
 #Build FP to be picked by both system and vendor
-BUILD_FINGERPRINT := "coral-user 10 QQ3A.200605.001 6392402 release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
 
 # ART
 PRODUCT_PROPERTY_OVERRIDES += \
